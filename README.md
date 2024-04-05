@@ -1,3 +1,7 @@
+![Screenshot 2024-04-06 022620](https://github.com/harshad603/GUI-Registration-Form/assets/116757243/9b951441-d6da-431f-b60c-bf059fd4e05a)
+![Screenshot 2024-04-06 022743](https://github.com/harshad603/GUI-Registration-Form/assets/116757243/55ae3ad7-c686-4571-9e53-bbfe638b87e1)
+![Screenshot 2024-04-06 022855](https://github.com/harshad603/GUI-Registration-Form/assets/116757243/46b5fbe6-ef82-4e22-82c3-fa1291b726b2)
+![Screenshot 2024-04-06 022926](https://github.com/harshad603/GUI-Registration-Form/assets/116757243/70a27f6d-9f98-416f-8602-33ac0f37d3ed)
 Project Title: GUI Registration Form in Python
 
 Description:
